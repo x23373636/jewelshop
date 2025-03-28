@@ -1,0 +1,8 @@
+id,title,slug,description,category_image,is_active,is_featured,created_at,updated_at
+1,Necklaces,necklaces,"All the necklaces.",category/necklaces.jpg,1,1,"2021-05-22 12:33:07.679721","2021-05-31 16:34:23.446916"
+2,RIngs,rings,"All the rings.",category/rings.jpg,1,1,"2021-05-22 12:33:27.110950","2021-05-22 12:33:27.111026"
+3,Bracelets,bracelets,"All the Bracelets.",category/bracelets.jpg,1,1,"2021-05-22 12:33:48.922049","2021-05-22 12:33:48.922085"
+4,Watches,watches,"All the watches",category/watches.jpg,1,1,"2021-05-22 12:34:03.986811","2021-05-22 12:34:03.986857"
+5,"Bead Necklaces",bead-necklaces,"All the bead necklaces",category/bead-necklace.jpg,1,0,"2021-05-22 12:34:24.352793","2021-05-31 16:32:43.656340"
+6,Earrings,earrings,"Earrings Dsescription",category/ear-rings.jpg,1,0,"2021-05-22 17:07:09.306481","2021-05-31 16:34:23.436525"
+7,Gifts,gifts,"All the products related to Gifts",category/gifts.jpg,1,1,"2021-05-31 16:35:10.794991","2021-05-31 16:35:10.795023"
