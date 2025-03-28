@@ -21,7 +21,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.humanize',
     'storages',  # Required for AWS S3 storage
-    'store',
+    'store',  # Your custom app
 ]
 
 # Middleware
