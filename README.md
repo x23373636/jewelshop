@@ -1,3 +1,5 @@
+#Usman Ghani
+
 Jewelry Shop E-Commerce Website
 This is a simple e-commerce website built with Django (Python) for a jewelry shop, but you can customize it for any type of e-commerce. It integrates PayPal as a payment processor. Users can browse products, add them to their cart, and make purchases using PayPal or credit/debit cards.
 Features of the Project
